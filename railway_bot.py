@@ -11,7 +11,7 @@ import asyncio
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TOKEN = "8751194567:AAGBwILxFurE83l1Bf_HnhmrrILDpjoDeJA"
+TOKEN = 8751194567:AAGBwILxFurE83l1Bf_HnhmrrILDpjoDeJA
 
 storage = MemoryStorage()
 bot = Bot(token=8751194567:AAGBwILxFurE83l1Bf_HnhmrrILDpjoDeJA)
