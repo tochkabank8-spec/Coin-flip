@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 TOKEN = "8751194567:AAGBwILxFurE83l1Bf_HnhmrrILDpjoDeJA"
 
 storage = MemoryStorage()
-bot = Bot(token=TOKEN)
+bot = Bot(token=8751194567:AAGBwILxFurE83l1Bf_HnhmrrILDpjoDeJA)
 dp = Dispatcher(storage=storage)
 
 class CoinGame(StatesGroup):
