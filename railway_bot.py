@@ -36,9 +36,9 @@ async def start(message: types.Message):
     await message.answer(
         "🎮 Добро пожаловать в игру 'Орёл и решка'!\n\n"
         "Команды:\n"
-        "/play - Начать игру\n"
-        "/set_stickers - Загрузить стикеры\n"
-        "/help - Справка"
+        "/play -🦍 Начать игру\n"
+        "/set_stickers -🦍 Загрузить стикеры\n"
+        "/help -🦍 Справка"
     )
 
 @dp.message(Command("help"))
